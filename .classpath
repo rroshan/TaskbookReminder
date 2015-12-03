@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/roshan/Downloads/Software/mysql-connector-java-5.1.28/mysql-connector-java-5.1.28-bin.jar"/>
+	<classpathentry kind="lib" path="/Users/roshan/Documents/workspace/Taskbook/WebContent/WEB-INF/lib/imap.jar"/>
+	<classpathentry kind="lib" path="/Users/roshan/Documents/workspace/Taskbook/WebContent/WEB-INF/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="/Users/roshan/Documents/workspace/Taskbook/WebContent/WEB-INF/lib/pop3.jar"/>
+	<classpathentry kind="lib" path="/Users/roshan/Documents/workspace/Taskbook/WebContent/WEB-INF/lib/smtp.jar"/>
+	<classpathentry kind="lib" path="/Users/roshan/Documents/workspace/Taskbook/WebContent/WEB-INF/lib/stringtemplate-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/roshan/Documents/workspace/Taskbook/WebContent/WEB-INF/lib/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="/Users/roshan/Downloads/mail-1.4.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
